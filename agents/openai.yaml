@@ -1,0 +1,4 @@
+interface:
+  display_name: "创意短片 · 风格版（videotypes）"
+  short_description: "用 34 套风格制作原创短片（19 套带示例 + 15 套 Opus 5.5 沉淀风格带提示词），按需选择工具，也能从参考视频学习并沉淀风格"
+  default_prompt: "用 $videotypes 把我的主题做成一条字幕叙事、只有音效的原创动画短片。"

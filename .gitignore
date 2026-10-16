@@ -1,0 +1,20 @@
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+projects/*/audio/
+projects/*/chunks/
+projects/*/stills/
+projects/*/sheet.png
+projects/*/*.mp4
+projects/_qa*/
+studies/
+*.log
+
+# videotypes 新增：渲染临时目录与验收抽帧
+.tmp/
+projects/*/qa/
